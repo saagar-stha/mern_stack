@@ -1,0 +1,21 @@
+nav,
+ul,
+a {
+  list-style-type: none;
+  text-decoration: none;
+}
+
+nav,
+li {
+  display: inline;
+  text-transform: capitalize;
+
+}
+
+#head {
+  background-color: green;
+}
+
+body {
+  background-color: tan;
+}
